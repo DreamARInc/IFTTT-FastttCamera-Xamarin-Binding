@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>DreamAR.Inc.FastttCamera</id>
+        <version>0.3.4</version>
+        <description>IFTTT - FastttCamera Binding for Xamarin</description>
+        <authors>Faraz Hassan</authors>
+        <owners>DreamAR Inc.</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>IFTTT - FastttCamera</title>
+        <releaseNotes>FastttCamera v0.3.4</releaseNotes>
+        <summary>IFTTT - FastttCamera Binding for Xamarin</summary>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/farazhassan/fastttcamera-ios-binding</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.iOS, fastttcamera, camera, ifttt</tags>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="DreamAR.Inc.FastttCamera.iOS/bin/Release/DreamAR.Inc.FastttCamera.iOS.dll" target="lib/Xamarin.iOS10/DreamAR.Inc.FastttCamera.iOS.dll" />
+    </files>
+</package>
